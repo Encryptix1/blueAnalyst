@@ -5,7 +5,7 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Pentester;Red+Team+Operator;Cybersecurity+Engineer;Always+Learning+Always+Breaking;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Pentester;Purple+Team+Operator;Cybersecurity+Engineer;Always+Learning+Always+Breaking;&center=true&width=500&height=45">
 </p>
 
 ---
