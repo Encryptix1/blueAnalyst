@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @blueAnalyst
-
-<!# 👨‍💻 Encryptix
+👨‍💻 Encryptix
 
 ```diff
-+ Offensive Security | Red Team | Cyber Defense
++ Offensive Security | Purple Team | Cyber Defense | Personal Defense
 ```
 
 <p align="center">
@@ -75,15 +73,9 @@
 
 ## 🌐 Connect
 
-* 💼 LinkedIn: [Your Link Here]
-* 🌍 Portfolio: [Your Site Here]
+* 💼 LinkedIn: 
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Encryptix&style=flat-square&color=blue" alt="profile views"/>
-</p>
----
-blueAnalyst/blueAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
