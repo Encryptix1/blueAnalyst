@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-* 🔐 Cybersecurity professional with a focus on offensive security
+* 🔐 Cybersecurity student with a focus on offensive security
 * 🔍 Actively developing skills in **web exploitation, reconnaissance, and adversary simulation**
 * 🧪 Hands-on labs: Hack The Box | TryHackMe | PentesterLab
 * ⚡ Background in security operations, risk management, and system analysis
